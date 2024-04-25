@@ -9,6 +9,9 @@
     * `git add <filename>` then `git commit`
 5. Write a suitable commit message and finalize your commit
 6. 📸 Take a screenshot of your terminal output
+
+   ![image](https://github.com/Navneettc/git/assets/167141238/b56ebe99-b43b-4c90-934d-825bd913224b)
+
 8. Show the commit history
     * `git log`
 9. 📸 Take a screenshot of your terminal output
