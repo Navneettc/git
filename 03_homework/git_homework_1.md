@@ -15,6 +15,8 @@
 8. Show the commit history
     * `git log`
 9. 📸 Take a screenshot of your terminal output
+10. ![image](https://github.com/Navneettc/git/assets/167141238/7d299b49-5059-4bbd-9900-e59f6ac65153)
+
 
 ### Task 2
 1. Create a new public repository on GitHub
