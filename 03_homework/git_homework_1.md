@@ -10,12 +10,14 @@
 5. Write a suitable commit message and finalize your commit
 6. 📸 Take a screenshot of your terminal output
 
-   ![image](https://github.com/Navneettc/git/assets/167141238/b56ebe99-b43b-4c90-934d-825bd913224b)
+![image](https://github.com/Navneettc/git/assets/167141238/fd5378b4-063a-4ed6-bb8e-bca8915a056f)
+
 
 8. Show the commit history
     * `git log`
 9. 📸 Take a screenshot of your terminal output
-10. ![image](https://github.com/Navneettc/git/assets/167141238/7d299b49-5059-4bbd-9900-e59f6ac65153)
+![image](https://github.com/Navneettc/git/assets/167141238/bd3e01d1-a43b-41c9-8a00-5fdc07b48d33)
+
 
 
 ### Task 2
